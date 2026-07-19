@@ -8,7 +8,7 @@
 
 `Multimedia Retrieval` · `Multimedia Verification` · `Computer Vision` · `Neural Architecture Search` · `Competitive Programming`
 
-[Codeforces: Duy_e](https://codeforces.com/profile/Duy_e) · [Kaggle: meowluvmatcha](https://www.kaggle.com/meowluvmatcha)
+[CV](./assets/Le-Anh-Duy-CV.pdf) · [Codeforces: Duy_e](https://codeforces.com/profile/Duy_e) · [Kaggle: meowluvmatcha](https://www.kaggle.com/meowluvmatcha)
 
 <sub>Currently retrieving events, verifying media, and making research a little less chaotic.</sub>
 
