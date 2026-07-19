@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Le-Anh-Duy
-- 👀 I’m interested in everthing
-- 🌱 I’m currently learning Coding
-- 📫 How to reach me: you cant
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love cats
+# Hi there, I'm Duy! 👋
 
-<!---
-Le-Anh-Duy/Le-Anh-Duy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring AI Engineer | Researcher-in-training | Practical App Builder**
+
+Welcome to my space! My GitHub is a mix of academic curiosity and real-world utility:
+
+*   🧠 **Deep Diving into AI:** I'm currently on the path to becoming an AI Engineer. I spend my time reading research papers and translating theories into code, with university projects focused on **Computer Vision (CV), Natural Language Processing (NLP), and Neural Architecture Search (NAS)**.
+*   🛠️ **Vibe Coding for Life:** Theory is great, but building is fun. When I'm not training models, I'm building hands-on applications designed to directly solve problems and automate my everyday life. 
+*   🌱 **Currently exploring:** [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection]
+
+Let's connect and build something awesome!
