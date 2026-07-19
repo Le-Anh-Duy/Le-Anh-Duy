@@ -6,7 +6,9 @@
 
 **I turn papers into experiments, experiments into evidence, and occasionally evidence into useful apps.**
 
-`Multimedia Retrieval` · `Multimedia Verification` · `Computer Vision` · `Research Tooling`
+`Multimedia Retrieval` · `Multimedia Verification` · `Computer Vision` · `Neural Architecture Search` · `Competitive Programming`
+
+[Codeforces: Duy_e](https://codeforces.com/profile/Duy_e) · [Kaggle: meowluvmatcha](https://www.kaggle.com/meowluvmatcha)
 
 <sub>Currently retrieving events, verifying media, and making research a little less chaotic.</sub>
 
@@ -31,6 +33,13 @@
 - ⚡ **Efficient LLM inference — in progress**: currently experimenting with serving Qwen3.5-2B using vLLM for the Viettel AI Race 2026.
 - 🧭 **Research Navigator**: a local-first tool that connects research goals, questions, experiments, decisions, and evidence.
 
+## 🧠 Recent NAS experiments
+
+Two recent Kaggle notebooks I'm especially proud of:
+
+- **[SCRFD+SPOS — NAS and Inference](https://www.kaggle.com/code/meowluvmatcha/scrfd-spos-nas-and-inference)** — neural architecture search and inference experiments for SCRFD using SPOS.
+- **[SPOS — Supernet for SCRF Dynamic Block](https://www.kaggle.com/code/meowluvmatcha/spos-supernet-for-scrf-dynamic-block)** — SPOS supernet experiments with dynamic blocks on the WIDER FACE dataset.
+
 ## 🧪 Selected projects
 
 | Project | What it does |
@@ -44,10 +53,8 @@
 
 ## 🎮 Side quests
 
-- [Vintage TODO](https://github.com/Le-Anh-Duy/vintage-todo) — a full-stack task manager dressed like a green CRT terminal, because normal todo apps were not dramatic enough.
 - [Quiz App](https://my-quiz-app-vibing.vercel.app) — a small Next.js quiz playground you can try live.
 - [Life Management App](https://life-management-425v.onrender.com/) — the app I built after deciding one todo list was clearly not enough.
-- [Valentine 22](https://le-anh-duy.github.io/valentine22/) — proof that CSS can also be a love language. 💌
 
 ## 📷 Through my lens
 
