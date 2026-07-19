@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Duy! 👋
+# LÊ ANH DUY
 
-### Aspiring AI Engineer & Researcher
+### AI Engineer · Researcher
 
 **I turn papers into experiments, experiments into evidence, and occasionally evidence into useful apps.**
 
@@ -18,27 +18,27 @@
   <img src="./assets/workspace-banner.jpg" alt="My workspace with the words Research, Build, Verify" width="100%">
 </p>
 
-## 📚 Publications
+## 01 / PUBLICATIONS
 
 - **[Ægis: AI-Enhanced OSINT for Multimedia Verification](https://dl.acm.org/doi/10.1145/3746027.3762034)** — ACM Multimedia 2025<br>
   Minh-Anh Pham, Anh-Tai Pham-Nguyen, **Anh-Duy Le**, et al. · An AI-enhanced OSINT system for multimedia verification, forensic analysis, and evidence validation.
 - **[MERVIN: A Unified Framework for Multimodal Event Retrieval in Vietnamese News Videos](https://arxiv.org/abs/2605.16120)** — SOICT 2025<br>
   Anh-Tai Pham-Nguyen, Tung-Duong Le-Duc, **Anh-Duy Le**, Trung-Hieu Truong-Le · A multimodal retrieval framework combining keyframes, transcripts, and video summaries.
 
-## 🔬 What I'm working on
+## 02 / CURRENT WORK
 
-- 🔎 **Multimedia retrieval and verification**: building systems that search across visual and textual evidence and help verify real-world media.
-- ⚡ **Efficient LLM inference — in progress**: currently experimenting with serving Qwen3.5-2B using vLLM for the Viettel AI Race 2026.
-- 🧭 **Research Navigator**: a local-first tool that connects research goals, questions, experiments, decisions, and evidence.
+- **Multimedia retrieval and verification**: building systems that search across visual and textual evidence and help verify real-world media.
+- **Efficient LLM inference — in progress**: currently experimenting with serving Qwen3.5-2B using vLLM for the Viettel AI Race 2026.
+- **Research Navigator**: a local-first tool that connects research goals, questions, experiments, decisions, and evidence.
 
-## 🧠 Recent NAS experiments
+## 03 / RECENT NAS EXPERIMENTS
 
 Two recent Kaggle notebooks I'm especially proud of:
 
 - **[SCRFD+SPOS — NAS and Inference](https://www.kaggle.com/code/meowluvmatcha/scrfd-spos-nas-and-inference)** — neural architecture search and inference experiments for SCRFD using SPOS.
 - **[SPOS — Supernet for SCRF Dynamic Block](https://www.kaggle.com/code/meowluvmatcha/spos-supernet-for-scrf-dynamic-block)** — SPOS supernet experiments with dynamic blocks on the WIDER FACE dataset.
 
-## 🧪 Selected projects
+## 04 / SELECTED PROJECTS
 
 | Project | What it does |
 | --- | --- |
@@ -49,7 +49,7 @@ Two recent Kaggle notebooks I'm especially proud of:
 | [Yolo-ST-GCN](https://github.com/schizocatto/Yolo-ST-GCN) | A config-driven skeleton action recognition pipeline with flexible Penn14/COCO18 joint layouts and two-stream ST-GCN training. |
 | [TensorTonic Solutions](https://github.com/Le-Anh-Duy/TensorTonic-Solutions) | My Python solutions and notes for hands-on tensor and machine learning problems. |
 
-## 🎮 Side quests & snapshots
+## 05 / SIDE PROJECTS & SNAPSHOTS
 
 <table>
   <tr>
@@ -68,7 +68,7 @@ Two recent Kaggle notebooks I'm especially proud of:
   </tr>
 </table>
 
-## 🧰 Tools I reach for
+## 06 / TOOLKIT
 
 `Python` · `PyTorch` · `OpenCV` · `vLLM` · `React` · `TypeScript` · `Node.js` · `Git`
 
