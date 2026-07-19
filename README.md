@@ -15,9 +15,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/workspace.jpg" alt="My workspace with a monitor, laptop, books, and guitar" width="820">
-  <br>
-  <sub>Where papers, prototypes, and guitar breaks happen.</sub>
+  <img src="./assets/workspace-banner.jpg" alt="My workspace with the words Research, Build, Verify" width="100%">
 </p>
 
 ## 📚 Publications
@@ -48,21 +46,27 @@ Two recent Kaggle notebooks I'm especially proud of:
 | [vLLM Colab Inference](https://github.com/Le-Anh-Duy/vLLM-Colab-Inference) | An inference optimization workspace for benchmarking TTFT/TPOT, evaluating GPQA accuracy, and shipping a reproducible vLLM setup. |
 | [NutriScan](https://github.com/Le-Anh-Duy/ML-Final-NutriScan) | A computer vision app that recognizes Vietnamese food with LSNet and turns predictions into nutrition-aware meal suggestions. |
 | [Speaking Practice App](https://github.com/Le-Anh-Duy/elsa-clone) | An AI pronunciation coach using Whisper, text-to-speech, IPA conversion, and similarity scoring. |
-| [Bus Routing Application](https://github.com/Le-Anh-Duy/Bus-routing-application) | A Python bus management and route-search system with geospatial processing and LLM-assisted search. |
+| [Yolo-ST-GCN](https://github.com/schizocatto/Yolo-ST-GCN) | A config-driven skeleton action recognition pipeline with flexible Penn14/COCO18 joint layouts and two-stream ST-GCN training. |
 | [TensorTonic Solutions](https://github.com/Le-Anh-Duy/TensorTonic-Solutions) | My Python solutions and notes for hands-on tensor and machine learning problems. |
 
-## 🎮 Side quests
+## 🎮 Side quests & snapshots
 
-- [Quiz App](https://my-quiz-app-vibing.vercel.app) — a small Next.js quiz playground you can try live.
-- [Life Management App](https://life-management-425v.onrender.com/) — the app I built after deciding one todo list was clearly not enough.
-
-## 📷 Through my lens
-
-Research taught me to notice small details. Photography does too.
-
-| A quiet pause by the lake | Afternoon light at my university |
-| :---: | :---: |
-| <img src="./assets/lakeside.jpg" alt="A quiet lakeside at sunset framed by trees" width="380"> | <img src="./assets/campus-light.jpg" alt="Afternoon sunlight falling across my university hallway" width="380"> |
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <strong><a href="https://my-quiz-app-vibing.vercel.app">Quiz App</a></strong><br>
+      A small Next.js quiz playground you can try live.<br><br>
+      <strong><a href="https://life-management-425v.onrender.com/">Life Management App</a></strong><br>
+      The app I built after deciding one todo list was clearly not enough.
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/lakeside.jpg" alt="A quiet lakeside at sunset framed by trees" height="170">
+    </td>
+    <td width="20%" align="center">
+      <img src="./assets/campus-light.jpg" alt="Afternoon sunlight falling across my university hallway" height="170">
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tools I reach for
 
