@@ -6,9 +6,9 @@
 
 **I turn papers into experiments, experiments into evidence, and occasionally evidence into useful apps.**
 
-`Computer Vision` · `NLP` · `Efficient LLM Inference` · `Research Tooling`
+`Multimedia Retrieval` · `Multimedia Verification` · `Computer Vision` · `Research Tooling`
 
-<sub>Currently trying to make models faster, research less chaotic, and side projects slightly over-themed.</sub>
+<sub>Currently retrieving events, verifying media, and making research a little less chaotic.</sub>
 
 </div>
 
@@ -18,15 +18,22 @@
   <sub>Where papers, prototypes, and guitar breaks happen.</sub>
 </p>
 
+## 📚 Publications
+
+- **[Ægis: AI-Enhanced OSINT for Multimedia Verification](https://dl.acm.org/doi/10.1145/3746027.3762034)** — ACM Multimedia 2025<br>
+  Minh-Anh Pham, Anh-Tai Pham-Nguyen, **Anh-Duy Le**, et al. · An AI-enhanced OSINT system for multimedia verification, forensic analysis, and evidence validation.
+- **[MERVIN: A Unified Framework for Multimodal Event Retrieval in Vietnamese News Videos](https://arxiv.org/abs/2605.16120)** — SOICT 2025<br>
+  Anh-Tai Pham-Nguyen, Tung-Duong Le-Duc, **Anh-Duy Le**, Trung-Hieu Truong-Le · A multimodal retrieval framework combining keyframes, transcripts, and video summaries.
+
 ## 🔬 What I'm working on
 
-- ⚡ **LLM inference optimization** for the Viettel AI Race 2026: serving Qwen3.5-2B with vLLM under tight latency, accuracy, and 18 GB VRAM constraints.
+- 🔎 **Multimedia retrieval and verification**: building systems that search across visual and textual evidence and help verify real-world media.
+- ⚡ **Efficient LLM inference — in progress**: currently experimenting with serving Qwen3.5-2B using vLLM for the Viettel AI Race 2026.
 - 🧭 **Research Navigator**: a local-first tool that connects research goals, questions, experiments, decisions, and evidence.
-- 👀 **Computer Vision research**, currently exploring [DINO](https://arxiv.org/abs/2203.03605) and end-to-end object detection.
 
 ## 🧪 Selected projects
 
-| Project | What I built |
+| Project | What it does |
 | --- | --- |
 | [Research Navigator](https://github.com/Le-Anh-Duy/Research-Tracker) | A local-first research planning system with evidence tracking, experiment history, a CLI, and MCP support for coding agents. |
 | [vLLM Colab Inference](https://github.com/Le-Anh-Duy/vLLM-Colab-Inference) | An inference optimization workspace for benchmarking TTFT/TPOT, evaluating GPQA accuracy, and shipping a reproducible vLLM setup. |
